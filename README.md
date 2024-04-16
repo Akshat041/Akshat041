@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Akshat Singh
 - 👀 I’m interested in Building software for businesses.
-- 🌱 I’m currently learning Java Script to add my functionallity to my website.
+- 🌱 I’m currently learning Java Script to add functionallity to my website.
 - 📫 How to reach me akshatofficial041@gmail.com.
 - ⚡ Fun fact: I love to watch Anime.
 
