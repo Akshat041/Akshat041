@@ -1,4 +1,4 @@
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Akshat041/Akshat041/assets/132469517/92bda7e8-702c-4d34-ae5d-0faf41906e28)
+![Uploading 225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif…]()
 
 - 👋 Hi, I’m @Akshat041.
 - 👀 I’m interested in Building software for businesses.
