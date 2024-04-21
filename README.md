@@ -4,7 +4,7 @@ ABOUT ME :
 - 👀 I’m interested in Building software for businesses.
 - 🌱 I’m currently learning Java Script to add functionallity to my website.
 - 📫 How to reach me akshatofficial041@gmail.com.
-- ⚡ Fun fact: I love to watch Anime.
+- ⚡ Sports : Volleyball, Badminton, Football
 
 <!---
 Akshat041/Akshat041 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
