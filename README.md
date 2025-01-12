@@ -2,7 +2,7 @@
 ABOUT ME :
 - 👋 Hi, I’m Akshat
 - 🎯 Open to challenges and eager to contribute to meaningful projects.
-- 📫 How to reach me akshatofficial041@gmail.com.
+- 📫 How to reach me akshatcommunityacc@gmail.com.
 - ⚡ Fav-Sports : Volleyball, Badminton, Football
 
 <!---
